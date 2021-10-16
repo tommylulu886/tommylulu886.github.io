@@ -1,1 +1,1 @@
-{"pages":[],"posts":[{"title":"OSPFv2","text":"SPF Calculation OSPF 使用 Dijkstra Algorithm (Shortest Path First (SPF) algorithm) 這個專門用來運算 Routing Path 的演算法來計算出 shortest routing path 使用場景 OSPF Router 藉由 Broadcast or Multicast 來取得 Neighbor 之間的 Routing Cost 建構 LSDB，然後使用 Dijkstra’s SPF algorithm 運算 LSDB 來去找到 Lowest total cost 的 Routing Path 去到目的端，最終運算完路徑就會形成 SPF Tree 樹狀結構，放進 forwarding table database (Routing Table)","link":"/2021/10/16/OSPFv2/"}],"tags":[],"categories":[]}
+{"pages":[],"posts":[],"tags":[],"categories":[]}
